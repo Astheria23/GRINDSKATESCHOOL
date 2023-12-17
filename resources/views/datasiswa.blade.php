@@ -1,31 +1,31 @@
 <x-app-layout>
         <div>
-            <table>
-                <thead>
+            <table class=" border-collapse border border-slate-500 min-w-full divide-y divide-gray-200 table-fixed divide-gray-700 border-1 ">
+                <thead class="bg-gray-100">
                     <tr>
-                        <th>No</th>
-                        <th>Nama</th>
-                        <th>Umur</th>
-                        <th>alamat</th>
-                        <th>Nomor Telepon</th>
-                        <th>email</th>
-                        <th>Config</th>
+                        <th class="border border-slate-600">No</th>
+                        <th class="border border-slate-600">Nama</th>
+                        <th class="border border-slate-600">Umur</th>
+                        <th class="border border-slate-600">alamat</th>
+                        <th class="border border-slate-600">Nomor Telepon</th>
+                        <th class="border border-slate-600">email</th>
+                        <th class="border border-slate-600">Config</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody class="bg-white divide-y divide-gray-200 bg-gray-800 :divide-gray-700">
                     <!-- Pengecekan data yang ada -->
                     @if($data->count()) 
                     <!-- Looping data yang ada/dicari -->
                         @foreach($data as $index => $datas)
                         <tr>
-                            <td>{{$index+1}} </td>
-                            <td>{{$datas->nama}}</td>
-                            <td>{{$datas->umur}}</td>
-                            <td>{{$datas->alamat}}</td>
-                            <td>{{$datas->nomor_telepon}}</td>
-                            <td>{{$datas->email}}</td>
-                            <td>
-                            <a href="{{ url('formEdit/'.$datas->id) }}">Edit</a>
+                            <td class='border border-slate-600 text-center px-8'>{{$index+1}} </td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->nama}}</td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->umur}}</td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->alamat}}</td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->nomor_telepon}}</td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->email}}</td>
+                            <td class='border border-slate-600 text-center px-8'>
+                            <a href="{{ url('formEdit/'.$datas->id) }}" class="btn btn-danger">Edit</a>
                             <a href="/siswa/hapus">Hapus</a>
                             </td>
                         </tr>
