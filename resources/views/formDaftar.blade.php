@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
-    <title>Pendaftaran Skater Junior Baru | SkateSchool</title>
-</head>
-<body>
+<x-app-layout>
 <div class="flex justify-center items-center w-screen h-screen bg-white">
     <div class="container mx-auto my-4 px-4 lg:px-20">
         <header class="flex">
@@ -62,5 +54,4 @@
     </form>
     </div>
 </div >
-</body>
-</html>
+</x-app-layout>

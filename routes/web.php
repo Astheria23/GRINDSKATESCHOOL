@@ -27,8 +27,8 @@ Route::middleware('auth')->group(function () {
         return view('index');
 });
 // Yang dibuka user / client
-    Route::get('/datasiswa','App\Http\Controllers\testController@read');
-    Route::get('/formDaftar','App\Http\Controllers\testController@create');
+    Route::get('/datasiswa','App\Http\Controllers\testController@read')->name('daftarsiswa');
+    Route::get('/formDaftar','App\Http\Controllers\testController@create')->name('formDaftar');
     Route::post('/siswa/store','App\Http\Controllers\testController@store');
     Route::get('/formEdit/{id}', 'App\Http\Controllers\testController@edit');
     Route::post('/siswa/update/{id}', 'App\Http\Controllers\testController@update');
