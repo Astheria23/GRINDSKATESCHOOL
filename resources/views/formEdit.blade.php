@@ -12,7 +12,7 @@
         <header class="flex">
              <h3 class="font-bold uppercase text-5xl">Formulir Perubahan Data Siswa Grind Skate School</h3>
         </header>
-             <form action="{{ url('/siswa/update/' . $student->id) }}"   method="POST">
+             <form action="{{ url('/siswa/update/' . $student->id) }}" method="POST">
              @csrf
              <fieldset>
         <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
