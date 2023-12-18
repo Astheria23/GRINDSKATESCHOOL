@@ -32,6 +32,7 @@ Route::middleware('auth')->group(function () {
     Route::post('/siswa/store','App\Http\Controllers\testController@store');
     Route::get('/formEdit/{id}', 'App\Http\Controllers\testController@edit');
     Route::post('/siswa/update/{id}', 'App\Http\Controllers\testController@update');
+    Route::get('/siswa/delete/{id}', 'App\Http\Controllers\testController@destroy');
 });
 
 Route::middleware('auth')->group(function () {

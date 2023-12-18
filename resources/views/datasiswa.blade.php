@@ -26,7 +26,7 @@
                             <td class='border border-slate-600 text-center px-8'>{{$datas->email}}</td>
                             <td class='border border-slate-600 text-center px-8'>
                             <a href="{{ url('formEdit/'.$datas->id) }}" class="btn btn-danger">Edit</a>
-                            <a href="/siswa/hapus">Hapus</a>
+                            <a href="{{ url('/siswa/delete/'. $datas->id) }}">Hapus</a>
                             </td>
                         </tr>
                         <!-- Jika data tidak ditemukan -->

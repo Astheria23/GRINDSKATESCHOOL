@@ -51,4 +51,18 @@ public function update(Request $request, $id){
 
     return redirect('datasiswa')->with('success', 'Data berhasil diubah!');
 }
+
+
+public function destroy($id)
+{
+    $student = SiswaModel::find($id);
+
+    if (!$student) {
+        return redirect()->back()->with('error', 'Student not found');
+    }
+
+    $student->delete();
+
+    return redirect()->back()->with('success', 'Data berhasil dihapus!');
+}
 }
