@@ -1,6 +1,6 @@
 <x-app-layout>
         <div>
-            <table class=" border-collapse border border-slate-500 min-w-full divide-y divide-gray-200 table-fixed divide-gray-700 border-1 ">
+            <table class=" border-collapse border border-slate-500 min-w-full divide-y divide-gray-200 table-fixed border-1 ">
                 <thead class="bg-gray-100">
                     <tr>
                         <th class="border border-slate-600">No</th>
@@ -12,7 +12,7 @@
                         <th class="border border-slate-600">Config</th>
                     </tr>
                 </thead>
-                <tbody class="bg-white divide-y divide-gray-200 bg-gray-800 :divide-gray-700">
+                <tbody class="divide-y divide-gray-200 bg-gray-800 :divide-gray-700">
                     <!-- Pengecekan data yang ada -->
                     @if($data->count()) 
                     <!-- Looping data yang ada/dicari -->
