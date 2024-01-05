@@ -322,7 +322,7 @@
             <div class="grid grid-cols-1 gap-6 lg:grid-cols-3 md:grid-cols-2">
                 <div class="relative bg-gray-200 dark:bg-gray-700">
                     <div class="w-full h-56 px-4 pt-4">
-                    <img src="{{asset('folder_image-login/f.jpg')}}" alt=""
+                    <img src="{{asset('folder_image-login/ta.jpg')}}" alt=""
                             class="object-cover w-full h-full rounded-lg ">
                     </div>
                     <div>
@@ -366,7 +366,7 @@
                 </div>
                 <div class="relative bg-gray-200 dark:bg-gray-700">
                     <div class="w-full h-56 px-4 pt-4 ">
-                    <img src="{{asset('folder_image-login/iki.jpg')}}" alt=""
+                    <img src="{{asset('folder_image-login/ki.jpg')}}" alt=""
                             class="object-cover w-full h-full rounded-lg ">
                     </div>
                     <div>
