@@ -9,10 +9,11 @@
                         <th class="border border-slate-600">alamat</th>
                         <th class="border border-slate-600">Nomor Telepon</th>
                         <th class="border border-slate-600">email</th>
+                        <th class="border border-slate-600">keterangan</th>
                         <th class="border border-slate-600">Config</th>
                     </tr>
                 </thead>
-                <tbody class="divide-y divide-gray-200 bg-gray-800 :divide-gray-700">
+                <tbody class="divide-y divide-gray-200 bg-white :divide-gray-700">
                     <!-- Pengecekan data yang ada -->
                     @if($data->count()) 
                     <!-- Looping data yang ada/dicari -->
@@ -24,6 +25,7 @@
                             <td class='border border-slate-600 text-center px-8'>{{$datas->alamat}}</td>
                             <td class='border border-slate-600 text-center px-8'>{{$datas->nomor_telepon}}</td>
                             <td class='border border-slate-600 text-center px-8'>{{$datas->email}}</td>
+                            <td class='border border-slate-600 text-center px-8'>{{$datas->keterangan}}</td>
                             <td class='border border-slate-600 text-center px-8'>
                             <a href="{{ url('formEdit/'.$datas->id) }}" class="btn btn-danger">Edit</a>
                             <a href="{{ url('/siswa/delete/'. $datas->id) }}">Hapus</a>

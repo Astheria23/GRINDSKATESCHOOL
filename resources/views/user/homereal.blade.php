@@ -7,7 +7,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>E-Kantin</title>
+    <title>G-skate</title>
     <link rel="icon" href="img/favicon.png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('skate-style/css/bootstrap.min.css')}}">
@@ -84,7 +84,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                       <a href="#" class="navbar-brand"><b style="color: #2FDBBC;">E</b>-Kantin</a>
+                       <a href="#" class="navbar-brand"><b style="color: #2FDBBC;">G</b>-Skate</a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -200,9 +200,9 @@
                 <div class="col-lg-6">
                     <div class="banner_text">
                         <div class="banner_text_iner">
-                            <h5>Selamat Datang Di E-kantin</h5>
+                            <h5>Selamat Datang Di G-Skate</h5>
                            
-                            <h1>Makanan Nikmat Bermanfaat</h1>
+                            <h1>Skateee</h1>
                             
                             <p></p>
                             <div class="banner_btn">
@@ -405,7 +405,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="ti-heart" aria-hidden="true"></i> by <a href="https://e-kantin.com" target="_blank">E-kantin</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="ti-heart" aria-hidden="true"></i> by <a href="https://e-kantin.com" target="_blank">G-skate</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                     <div class="col-lg-4">

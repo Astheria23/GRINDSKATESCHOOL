@@ -15,5 +15,6 @@ class SiswaModel extends Model
         'alamat',
         'nomor_telepon',
         'email'
+        'keterangan'
     ];
 }

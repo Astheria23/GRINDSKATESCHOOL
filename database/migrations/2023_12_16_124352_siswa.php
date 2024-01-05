@@ -18,8 +18,9 @@ return new class extends Migration
                 $table->string('nama');
                 $table->integer('umur');
                 $table->string('alamat');
-                $table->integer('nomor_telepon');
+                $table->string('nomor_telepon');
                 $table->text('email')->unique();
+                $table->string('keteranngan');
                 $table->timestamps();
             });
         }

@@ -122,7 +122,7 @@
                         </div> --}}
                         <br><br>
                         <div class="register-link m-t-15 text-center">
-                            <p>Belum Mempunyai Akun ? Mari Registrasi <a href="{{url('reg')}}">Pembeli</a> <b>/</b> <a href="{{url('reg-seller')}}">Penjual</a></p>
+                            <p>Belum Mempunyai Akun ? Mari Registrasi</p>
                         </div>
                     </form>
                 </div>

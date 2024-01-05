@@ -22,6 +22,10 @@ Route::get('/test-login', function () {
     return view('user.login-user');
 });
 
+Route::get('/home2', function () {
+    return view('user.home2');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
