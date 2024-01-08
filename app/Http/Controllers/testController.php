@@ -23,7 +23,7 @@ public function store(Request $request){
         'umur'=>$request->umur,
         'alamat'=> $request->alamat,
         'nomor_telepon'=> $request->nomor_telepon,
-        'email'=>$request->email 
+        'email'=>$request->email
     ]);
     return redirect('datasiswa');
 }
@@ -51,7 +51,6 @@ public function update(Request $request, $id){
 
     return redirect('datasiswa')->with('success', 'Data berhasil diubah!');
 }
-
 
 public function destroy($id)
 {

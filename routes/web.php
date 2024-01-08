@@ -14,8 +14,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/test', function () {
-    return view('user.homereal');
+Route::get('/', function () {
+    return view('user.home2');
+});
+
+Route::get('/contact', function () {
+    return view('user.contact');
 });
 
 Route::get('/test-login', function () {
@@ -36,6 +40,7 @@ Route::middleware('auth')->group(function () {
 });
 // Yang dibuka user / client
     Route::get('/datasiswa','App\Http\Controllers\testController@read')->name('daftarsiswa');
+    Route::get('/user/contact','App\Http\Controllers\testController@read')->name('contact');
     Route::get('/formDaftar','App\Http\Controllers\testController@create')->name('formDaftar');
     Route::post('/siswa/store','App\Http\Controllers\testController@store');
     Route::get('/formEdit/{id}', 'App\Http\Controllers\testController@edit');

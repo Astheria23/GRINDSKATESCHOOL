@@ -29,22 +29,6 @@
                 <label for="email">Email </label>
                 <input type="email" name="email" placeholder="email" class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"/>
             </p>
-            <!-- Form Jenis Kelamin Kalo dibutuhin
-            <p>
-                <label for="jenisKelamin">Jenis Kelamin: </label>
-                <label><input type="radio" name="jenisKelamin" value="Laki-laki">Laki-laki</label>
-                <label><input type="radio" name="jenisKelamin" value="Perempuan">Perempuan</label>
-            </p> 
-            <p class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline">
-                <label for="agama">Agama: </label>
-                <select name="agama" class="">
-                    <option>Islam</option>
-                    <option>Kristen</option>
-                    <option>Katholik</option>
-                    <option>Buddha</option>
-                    <option>Hindu</option>
-                </select>
-            </p> -->
             <p class="my-2 w-1/2 lg:w-1/4">
                 <input type="submit" value="Daftar" name="daftar" class="uppercase text-sm font-bold tracking-wide bg-blue-900 text-gray-100 p-3 rounded-lg w-full 
                       focus:outline-none focus:shadow-outline"/>
