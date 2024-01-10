@@ -167,31 +167,15 @@
 <section class="flex items-center bg-gray-100 lg:h-screen font-poppins dark:bg-gray-900 ">
         <div class="justify-center max-w-6xl px-4 py-4 mx-auto lg:py-0">
             <div class="flex flex-wrap justify-center -mx-3 pt-11">
-                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3">
+                <div class="w-full px-1 mb-1 lg:px-2 md:w-1/2 lg:w-1/3">
                     <div class="bg-white rounded-md dark:bg-gray-800">
                         <div class="p-4">
-                            <div class="flex items-center justify-between mb-3">
-                                <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
-                                    Full time
-                                </span>
-                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
-                            </div>
-                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
-                            REGULAR LESSONS TO YOUTH
-                            </h2>
-                            <div class="flex items-center justify-between mb-3">
-                                <h2 class="text-sm font-medium dark:text-gray-400">This is a one-time lesson. Here you will learn the basics of skateboarding such as standing, stepping, steering and stopping.
-                                    <br>The cost is Rp.150.000 . If you want to rent equipment, we charge Rp.15.000 for a skateboard and Rp.10.000 for a helmet.</h2>
-                                <!-- <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
-                                    7th march 2023</span> -->
-                            </div>
-                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>3 Hours</strong></p>
-                            <div class="flex items-center justify-center mt-4">
-                                <a href=""
-                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
-                                    Order now</a>
+                        <h2 class="text-2x1 font-bold mb-4">YOUTH</h2>
+                            <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">REGULER YOUTH LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">SKATEBOARD PASSPORT</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">PRIVATE LESSONS YOUTH</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">TRIAL LESSONS YOUTH</button>
                             </div>
                         </div>
                     </div>
@@ -199,61 +183,26 @@
                 <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3">
                     <div class="bg-white rounded-md dark:bg-gray-800">
                         <div class="p-4">
-                            <div class="flex items-center justify-between mb-3">
-                                <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
-                                    Full time
-                                </span>
-                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
-                            </div>
-                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
-                               18+
-                            </h2>
-                            <div class="flex items-center justify-between mb-3">
-                                <h2 class="text-sm font-medium dark:text-gray-400">Are you 18 or older and want to learn how to skateboard or keep updating your tricks? It might happen to us!
-                                During the 18+ lessons you will receive lessons from our skateboard coaches along with peers.</h2>
-                                <!-- <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
-                                    7th march 2023</span> -->
-                            </div>
-                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>2.5 months</strong></p>
-                            <div class="flex items-center justify-center mt-4">
-                                <a href=""
-                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
-                                    Register now</a>
-                            </div>
+                            <h2 class="text-2x1 font-bold mb-4">ADULTS</h2>
+                            <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">18+ LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">30+ LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">PRIVATE LESSONS 18+ AND 30+</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">TRIAL LESSONS 18+ AND 30+</button>
+                        </div>
                         </div>
                     </div>
                 </div>
-                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3 ">
-                    <div class="bg-white rounded-md dark:bg-gray-800">
-                        <div class="p-4">
-                            <div class="flex items-center justify-between mb-3">
-                                <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
-                                    Full time
-                                </span>
-                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
-                            </div>
-                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
-                                30+
-                            </h2>
-                            <div class="flex items-center justify-between mb-3">
-                                <h2 class="text-sm font-medium dark:text-gray-400">Too old to learn how to skateboard? Not too!
-Put on your helmet, put on your visor and go!
-These lessons are aimed at anyone over 30 who wants to learn how to skateboard or keep updating their tricks.</h2>
-                                <!-- <span
-                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
-                                    7th march 2022</span> -->
-                            </div>
-                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>2.5 months</strong></p>
-                            <div class="flex items-center justify-center mt-4">
-                                <a href=""
-                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
-                                    Register now</a>
-                            </div>
+            <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3 ">
+                <div class="bg-white rounded-md dark:bg-gray-800">
+                <div class="p-4">
+                        <h2 class="text-2x1 font-bold mb-4">ACTIVITIES  </h2>
+                    <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">BIRTHDAY PARTY</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">WOEKSHOP AND CLINICS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">SCHOOLS AND BSO</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">COMPANY AND ASSOCIATION OUTINGS</button>
                         </div>
-                    </div>
                 </div>
             </div>
         </div>
