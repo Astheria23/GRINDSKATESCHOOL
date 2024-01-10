@@ -117,11 +117,11 @@
   <div class="grid gap-4 items-start">
     <h1 class="font-bold text-3xl">Buqiet Skatepark</h1>
     <p class="text-lg leading-loose">
-      We are located in the heart of the city, easily accessible by all modes of transport. Our office is surrounded
-      by lush green parks, popular restaurants, and art galleries. This vibrant neighborhood inspires us to create
-      and innovate every day.
+    Buqiet Skatepark adalah arena indoor skatepark pertama di Indonesia yang aktif digunakan sejak 1999 silam oleh berbagai komunitas dalam ceruk olahraga ugal-ugalan ini.
+    tidak hanya dijadikan sebagai ruang berlatih dan pertandingan skateboard saja, 
+    Buqiet Skatepark pun bisa digunakan untuk pengendara BMX dan agresif inline skate.
     </p>
-    <p class="text-lg leading-loose">1234 Street Name, City, State, 56789</p>
+    <p class="text-lg leading-loose">Jl. Sariwangi Selatan No.88 88, Sariwangi, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559</p>
     <button class="bg-black text-white inline-flex items-center justify-center text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8">
       Get Directions
     </button>
@@ -150,19 +150,114 @@
   <div class="grid gap-4 items-start">
     <h1 class="font-bold text-3xl">Lucky Line Skatepark</h1>
     <p class="text-lg leading-loose">
-      We are located in the heart of the city, easily accessible by all modes of transport. Our office is surrounded
-      by lush green parks, popular restaurants, and art galleries. This vibrant neighborhood inspires us to create
-      and innovate every day.
+    Ada skate park yang terkenal di Bandung yang banyak menghasilkan atlet-atlet Skateboard yaitu di Lucky Line Skate park,
+    disana banyak orang yang bermain skateboard. Keunggulan tempat ini yaitu indoor jadi lebih nyaman tidak terkena terik matahari ataupun hujan.
+
     </p>
-    <p class="text-lg leading-loose">1234 Street Name, City, State, 56789</p>
+    <p class="text-lg leading-loose">Lucky Square Mall, lt. jalan jakarta no 2, Jl. Terusan Jakarta No.1, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40291</p>
     <button class="inline-flex items-center justify-center text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8">
       Get Directions
     </button>
   </div>
 </div>		
 </section>
-
 </div>
+
+ <!-- card lessons  -->
+<section class="flex items-center bg-gray-100 lg:h-screen font-poppins dark:bg-gray-900 ">
+        <div class="justify-center max-w-6xl px-4 py-4 mx-auto lg:py-0">
+            <div class="flex flex-wrap justify-center -mx-3 pt-11">
+                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3">
+                    <div class="bg-white rounded-md dark:bg-gray-800">
+                        <div class="p-4">
+                            <div class="flex items-center justify-between mb-3">
+                                <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
+                                    Full time
+                                </span>
+                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
+                            </div>
+                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
+                            REGULAR LESSONS TO YOUTH
+                            </h2>
+                            <div class="flex items-center justify-between mb-3">
+                                <h2 class="text-sm font-medium dark:text-gray-400">This is a one-time lesson. Here you will learn the basics of skateboarding such as standing, stepping, steering and stopping.
+                                    <br>The cost is Rp.150.000 . If you want to rent equipment, we charge Rp.15.000 for a skateboard and Rp.10.000 for a helmet.</h2>
+                                <!-- <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
+                                    7th march 2023</span> -->
+                            </div>
+                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>3 Hours</strong></p>
+                            <div class="flex items-center justify-center mt-4">
+                                <a href=""
+                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
+                                    Order now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3">
+                    <div class="bg-white rounded-md dark:bg-gray-800">
+                        <div class="p-4">
+                            <div class="flex items-center justify-between mb-3">
+                                <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
+                                    Full time
+                                </span>
+                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
+                            </div>
+                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
+                               18+
+                            </h2>
+                            <div class="flex items-center justify-between mb-3">
+                                <h2 class="text-sm font-medium dark:text-gray-400">Are you 18 or older and want to learn how to skateboard or keep updating your tricks? It might happen to us!
+                                During the 18+ lessons you will receive lessons from our skateboard coaches along with peers.</h2>
+                                <!-- <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
+                                    7th march 2023</span> -->
+                            </div>
+                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>2.5 months</strong></p>
+                            <div class="flex items-center justify-center mt-4">
+                                <a href=""
+                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
+                                    Register now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3 ">
+                    <div class="bg-white rounded-md dark:bg-gray-800">
+                        <div class="p-4">
+                            <div class="flex items-center justify-between mb-3">
+                                <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full dark:bg-gray-700 dark:text-gray-400 bg-blue-50">
+                                    Full time
+                                </span>
+                                <h2 class="text-sm font-medium dark:text-gray-400">3 days from now</h2>
+                            </div>
+                            <h2 class="mb-3 text-xl font-semibold lg:text-2xl dark:text-gray-400">
+                                30+
+                            </h2>
+                            <div class="flex items-center justify-between mb-3">
+                                <h2 class="text-sm font-medium dark:text-gray-400">Too old to learn how to skateboard? Not too!
+Put on your helmet, put on your visor and go!
+These lessons are aimed at anyone over 30 who wants to learn how to skateboard or keep updating their tricks.</h2>
+                                <!-- <span
+                                    class="inline-block px-2 py-1 text-sm text-blue-500 rounded-full bg-blue-50 dark:bg-gray-700 dark:text-gray-400">
+                                    7th march 2022</span> -->
+                            </div>
+                            <p class="text-sm font-medium dark:text-gray-400">Duration : <strong>2.5 months</strong></p>
+                            <div class="flex items-center justify-center mt-4">
+                                <a href=""
+                                    class="w-full px-4 py-2 text-center text-gray-900 bg-blue-300 rounded-md dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 hover:bg-blue-400">
+                                    Register now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 <!-- Location -->
 <!-- TW Elements is free under AGPL, with commercial license required for specific uses. See more details: https://tw-elements.com/license/ and contact us for queries at tailwind@mdbootstrap.com --> 
    
@@ -286,7 +381,7 @@
                     <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">Senior Coach</p>
                     <div class="flex items-center justify-start mt-4">
                         <a class="inline-block mr-5 text-gray-800 hover:text-blue-700 dark:text-gray-400 dark:hover:text-blue-400"
-                            href="#">
+                            href="">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-facebook " viewBox="0 0 16 16">
                                 <path
@@ -336,7 +431,7 @@
                             </svg>
                         </a>
                         <a class="inline-block text-gray-800 dark:text-gray-400 hover:text-pink-400 dark:hover:text-pink-400 "
-                            href="#">
+                            href="https://www.instagram.com/fvckingace_/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-instagram" viewBox="0 0 16 16">
                                 <path
