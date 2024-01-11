@@ -18,7 +18,16 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
             <div>
                 <a href="/">
-                    <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+                <div class="flex justify-center">
+        <img
+          src="{{asset('folder_image-login/logo.png')}}"
+          alt="Skateboard School Amsterdam Logo"
+          class="max-h-72"
+          width="300"
+          height="300
+          style="aspect-ratio: 200 / 200; object-fit: cover;"
+        />
+      </div>
                 </a>
             </div>
 

@@ -25,8 +25,6 @@
                     </li>
                     <li><a href="" class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border-[25px]">About Us</a>
                     </li>
-                    <li><a href="" class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border-[25px]">Contact</a>
-                    </li>
                 </ul>
                 </div>
                 <div class="lg:hidden">

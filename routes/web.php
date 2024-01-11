@@ -33,7 +33,7 @@ Route::get('/dashboard', function () {
 Route::get('/dataTrial','App\Http\Controllers\TrialController@read')->name('dataTrial');
 Route::get('/trialDaftar','App\Http\Controllers\TrialController@create')->name('trialDaftar');
 Route::post('/dataTrial','App\Http\Controllers\TrialController@store')->name('trialDaftar');
-Route::delete('/dataTrial/{id}', 'App\Http\Controllers\testController@destroy');
+Route::delete('/dataTrial/delete/{id}', 'App\Http\Controllers\TrialController@destroy');
 
 Route::middleware('auth')->group(function () {
     Route::get('/index', function () {

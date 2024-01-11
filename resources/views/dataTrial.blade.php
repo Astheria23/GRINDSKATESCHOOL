@@ -32,7 +32,7 @@
                             <td class='border border-slate-600 text-center px-8'>
                                 <form action="{{ url('/siswa/delete/'. $datas->id) }}" method='POST'>
                                 @csrf
-                                @method('delete');
+                                @method('delete')
                             <button>Hapus</button>
                             </form>
                         </td>
