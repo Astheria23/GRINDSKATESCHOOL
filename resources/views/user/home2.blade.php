@@ -42,7 +42,7 @@
                 </div>
                 <div class="hidden lg:flex">
                 <a class="bg-blue-600 block px-5 py-3 text-sm font-bold text-center text-white transition duration-200 bg-white rounded md:inline-block hover:bg-yellow-400 hover:text-blue-600"
-                            href="#"> Join With Us </a>
+                            href="/trialDaftar"> Join With Us </a>
                 </div>
             </nav>         
         </div>
