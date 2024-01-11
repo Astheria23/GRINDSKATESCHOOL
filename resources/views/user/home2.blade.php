@@ -65,31 +65,34 @@
     </header>
 <!-- Deskripsi -->
 <section class="mt-10">
+<h2 class="pb-4 text-4xl font-bold text-center text-gray-800 md:text-6xl dark:text-gray-400 mb-3 py-2">
+                About us
+            </h2>
 <div class="max-w-4xl mx-auto p-6 bg-white">
   <div class="grid grid-cols-2 gap-8">
     <div>
       <h2 class="text-xl font-bold mb-4">SKATEBOARDING</h2>
       <p class="mb-4">
-        We see skateboarding as a sporty lifestyle. It's not something you learn in one day. It takes attention,
-        patience and perseverance to master the techniques. Together with our professional skateboard coaches, we
-        ensure that you too can learn to skateboard.
+      Kami melihat skateboard sebagai gaya hidup sportif. Itu bukanlah sesuatu yang Anda pelajari dalam satu hari. Itu memerlukan perhatian,
+        kesabaran dan ketekunan untuk menguasai tekniknya. Bersama dengan pelatih skateboard profesional kami, kami
+        pastikan Anda juga bisa belajar skateboard.
       </p>
       <h2 class="text-xl font-bold mb-4">THE LESSONS</h2>
       <p>
-        During the youth lessons we work with small groups of a maximum of 12 participants. There are 2 skateboard
-        coaches in each group. In this way we ensure a safe lesson with room for personal attention. We work in the
-        different levels of the Skateboard Passport of the Skateboard Federation of the Netherlands.
+      Selama pelajaran remaja kami bekerja dalam kelompok kecil yang terdiri dari maksimal 12 peserta. Ada 3 skateboard
+        pelatih di masing-masing kelompok. Dengan cara ini kami memastikan pembelajaran yang aman dengan ruang untuk perhatian pribadi. Kami bekerja di
+        berbagai tingkatan Skateboard dari Persatuan Skateboard Bandung.
       </p>
       <p class="mt-4">
-        In the flexible adult lessons we work with a maximum number of participants per lesson and here too we work
-        at different levels. There are always enough coaches present to operate the levels.
+      Dalam pelajaran orang dewasa yang fleksibel kami bekerja dengan jumlah peserta maksimum per pelajaran dan di sini kami juga bekerja
+        pada tingkat yang berbeda. Selalu ada cukup pelatih yang hadir untuk mengoperasikan level tersebut.
       </p>
     </div>
     <div class="p-6 border-2 border-yellow-400 rounded-lg">
-      <h2 class="text-xl font-bold mb-4">WHICH LESSON SUITS YOU?</h2>
+      <h2 class="text-xl font-bold mb-4">GRAND SKATEBOARD SCHOOLS</h2>
       <p class="mb-4">
-        Have you become curious? Take a trial lesson! Please feel free to visit us, call or email to discuss the
-        options. You are very welcome at Skateboard School Amsterdam.
+      Apakah Anda menjadi penasaran? Ikuti pelajaran percobaan! Jangan ragu untuk mengunjungi kami, menelepon atau mengirim email untuk mendiskusikannya
+        pilihan. Anda sangat diterima di Grind Skateboard School Bandung.
       </p>
       <div class="flex justify-center">
         <img
@@ -117,11 +120,11 @@
   <div class="grid gap-4 items-start">
     <h1 class="font-bold text-3xl">Buqiet Skatepark</h1>
     <p class="text-lg leading-loose">
-      We are located in the heart of the city, easily accessible by all modes of transport. Our office is surrounded
-      by lush green parks, popular restaurants, and art galleries. This vibrant neighborhood inspires us to create
-      and innovate every day.
+    Buqiet Skatepark adalah arena indoor skatepark pertama di Indonesia yang aktif digunakan sejak 1999 silam oleh berbagai komunitas dalam ceruk olahraga ugal-ugalan ini.
+    tidak hanya dijadikan sebagai ruang berlatih dan pertandingan skateboard saja, 
+    Buqiet Skatepark pun bisa digunakan untuk pengendara BMX dan agresif inline skate.
     </p>
-    <p class="text-lg leading-loose">1234 Street Name, City, State, 56789</p>
+    <p class="text-lg leading-loose">Jl. Sariwangi Selatan No.88 88, Sariwangi, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559</p>
     <button class="bg-black text-white inline-flex items-center justify-center text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8">
       Get Directions
     </button>
@@ -150,19 +153,63 @@
   <div class="grid gap-4 items-start">
     <h1 class="font-bold text-3xl">Lucky Line Skatepark</h1>
     <p class="text-lg leading-loose">
-      We are located in the heart of the city, easily accessible by all modes of transport. Our office is surrounded
-      by lush green parks, popular restaurants, and art galleries. This vibrant neighborhood inspires us to create
-      and innovate every day.
+    Ada skate park yang terkenal di Bandung yang banyak menghasilkan atlet-atlet Skateboard yaitu di Lucky Line Skate park,
+    disana banyak orang yang bermain skateboard. Keunggulan tempat ini yaitu indoor jadi lebih nyaman tidak terkena terik matahari ataupun hujan.
+
     </p>
-    <p class="text-lg leading-loose">1234 Street Name, City, State, 56789</p>
+    <p class="text-lg leading-loose">Lucky Square Mall, lt. jalan jakarta no 2, Jl. Terusan Jakarta No.1, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40291</p>
     <button class="inline-flex items-center justify-center text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-11 rounded-md px-8">
       Get Directions
     </button>
   </div>
 </div>		
 </section>
-
 </div>
+
+ <!-- card lessons  -->
+<section class="flex items-center bg-gray-100 lg:h-screen font-poppins dark:bg-gray-900 ">
+        <div class="justify-center max-w-6xl px-4 py-4 mx-auto lg:py-0">
+            <div class="flex flex-wrap justify-center -mx-3 pt-11">
+                <div class="w-full px-1 mb-1 lg:px-2 md:w-1/2 lg:w-1/3">
+                    <div class="bg-white rounded-md dark:bg-gray-800">
+                        <div class="p-4">
+                        <h2 class="text-2x1 font-bold mb-4">YOUTH</h2>
+                            <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">REGULER YOUTH LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">SKATEBOARD PASSPORT</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">PRIVATE LESSONS YOUTH</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">TRIAL LESSONS YOUTH</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3">
+                    <div class="bg-white rounded-md dark:bg-gray-800">
+                        <div class="p-4">
+                            <h2 class="text-2x1 font-bold mb-4">ADULTS</h2>
+                            <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">18+ LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">30+ LESSONS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">PRIVATE LESSONS 18+ AND 30+</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">TRIAL LESSONS 18+ AND 30+</button>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            <div class="w-full px-3 mb-6 lg:px-2 md:w-1/2 lg:w-1/3 ">
+                <div class="bg-white rounded-md dark:bg-gray-800">
+                <div class="p-4">
+                        <h2 class="text-2x1 font-bold mb-4">ACTIVITIES  </h2>
+                    <div class="grid grid-cols-1 gap-4">
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">BIRTHDAY PARTY</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">WOEKSHOP AND CLINICS</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">SCHOOLS AND BSO</button>
+                            <button class="text-blue-600 flex h-8 w-20 rounded-lg font-bold items-center justify-center overflow-hidden text-white transition-all duration-300 before:absolute before:inset-0 before:border-0 before:border-white before:duration-100 before:ease-linear hover:bg-blue-600 hover:text-yellow-300 hover:before:border- py-4 px-8 rounded w-full">COMPANY AND ASSOCIATION OUTINGS</button>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
 <!-- Location -->
 <!-- TW Elements is free under AGPL, with commercial license required for specific uses. See more details: https://tw-elements.com/license/ and contact us for queries at tailwind@mdbootstrap.com --> 
    
@@ -179,7 +226,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] lg:h-[450px] transition duration-500   group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/1.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P2.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -187,7 +234,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] transition duration-500  group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/2.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P3.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -197,7 +244,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] transition duration-500  group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/3.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P4.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -205,7 +252,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] lg:h-[450px]  transition duration-500  group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/4.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P5.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -215,7 +262,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] lg:h-[450px] transition duration-500  group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/5.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P6.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -223,7 +270,7 @@
                         <a href="#">
                             <div class="relative mb-5 overflow-hidden">
                                 <img class="object-cover w-full h-[250px] transition duration-500  group-hover:origin-center hover:scale-105"
-                                    src="{{asset('folder_image-login/3.jpeg')}}" alt="">
+                                    src="{{asset('folder_image-login/P1.jpeg.jpeg')}}" alt="">
                             </div>
                         </a>
                     </div>
@@ -268,7 +315,7 @@
                             </svg>
                         </a>
                         <a class="inline-block text-gray-800 dark:text-gray-400 hover:text-pink-400 dark:hover:text-pink-400 "
-                            href="#">
+                            href="https://www.instagram.com/sweet_explicit/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-instagram" viewBox="0 0 16 16">
                                 <path
@@ -280,13 +327,13 @@
                 <div class="w-full px-4 mb-4 lg:w-1/3 sm:w-1/2 md:mb-10">
                     <div class="overflow-hidden">
                         <img class="object-cover w-full transition-all hover:scale-110 h-72 "
-                            src="{{asset('folder_image-login/ki.jpg')}}" alt="">
+                            src="{{asset('folder_image-login/iqmal.jpeg.jpeg')}}" alt="">
                     </div>
                     <h2 class="mt-4 text-xl font-bold dark:text-gray-400">Rizqi Iqmal</h2>
                     <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">Senior Coach</p>
                     <div class="flex items-center justify-start mt-4">
                         <a class="inline-block mr-5 text-gray-800 hover:text-blue-700 dark:text-gray-400 dark:hover:text-blue-400"
-                            href="#">
+                            href="">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-facebook " viewBox="0 0 16 16">
                                 <path
@@ -302,7 +349,7 @@
                             </svg>
                         </a>
                         <a class="inline-block text-gray-800 dark:text-gray-400 hover:text-pink-400 dark:hover:text-pink-400 "
-                            href="#">
+                            href="https://www.instagram.com/rzqiiqmal_?igsh=MTlhbmo5eWJsamVjNA==">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-instagram" viewBox="0 0 16 16">
                                 <path
@@ -314,7 +361,7 @@
                 <div class="w-full px-4 mb-4 lg:w-1/3 sm:w-1/2 md:mb-10">
                     <div class="overflow-hidden">
                         <img class="object-cover w-full transition-all hover:scale-110 h-72 "
-                            src="{{asset('folder_image-login/f.jpg')}}" alt="">
+                            src="{{asset('folder_image-login/P10.jpeg')}}" alt="">
                     </div>
                     <h2 class="mt-4 text-xl font-bold dark:text-gray-400">Farid Al-Mustofa</h2>
                     <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">Junior Trainer</p>
@@ -336,7 +383,7 @@
                             </svg>
                         </a>
                         <a class="inline-block text-gray-800 dark:text-gray-400 hover:text-pink-400 dark:hover:text-pink-400 "
-                            href="#">
+                            href="https://www.instagram.com/fvckingace_/">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                 class="w-6 h-6 bi bi-instagram" viewBox="0 0 16 16">
                                 <path
